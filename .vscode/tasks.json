@@ -1,0 +1,15 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Run with uv",
+      "type": "shell",
+      "command": "${env:USERPROFILE}\\.local\\bin\\uv.exe",
+      "args": ["run", "${file}"],
+      "options": { "cwd": "${workspaceFolder}" },
+      "presentation": { "reveal": "always", "panel": "dedicated" },
+      "problemMatcher": []
+    }
+  ]
+}
+  

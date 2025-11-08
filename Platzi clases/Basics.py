@@ -1,0 +1,6 @@
+name = input("ingrese su nombre:")
+print(name)
+age = input("ingrese su edad:")
+print(age)
+print(type(age))
+print(type(name))
