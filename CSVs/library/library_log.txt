@@ -1,0 +1,10 @@
+2025-11-11 00:42:45 - Lector: Carlos - Accion: read_book - Libro Crimen y castigo
+2025-11-11 00:43:36 - Lector: Carlos - Accion: wrapper - Libro: crimen y cast - No disponible
+2025-11-11 00:44:58 - Lector: Carlos - Accion: read_book - Libro: crimen y cast - No disponible
+2025-11-11 00:45:34 - Lector: Ana - Accion: wrapper - Acceso denegado
+2025-11-11 00:46:01 - Lector: Ana - Accion: wrapper - Acceso denegado
+2025-11-11 00:47:06 - Lector: Ana - Accion: read_book - Acceso denegado
+2025-11-11 00:47:34 - Lector: Ana - Accion: read_book - Acceso denegado
+2025-11-11 00:48:12 - Lector: Carlos - Accion: read_book - Libro: crimen y cast - No disponible
+2025-11-11 00:48:21 - Lector: Carlos - Accion: read_book - Libro Crimen y castigo
+2025-11-11 00:48:33 - Lector: Ana - Accion: read_book - Acceso denegado

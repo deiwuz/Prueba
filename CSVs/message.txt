@@ -4,3 +4,4 @@ Accion: add_employee - Fecha y hora: 2025-11-09 09:48:05.590057
 Accion: add_employee - Fecha y hora: 2025-11-09 09:48:05.696478
 Accion: add_employee - Fecha y hora: 2025-11-09 09:49:04.300622
 Accion: add_employee - Fecha y hora: 2025-11-09 09:49:07.848944
+Accion: add_employee - Fecha y hora: 2025-11-09 22:18:52.988358
